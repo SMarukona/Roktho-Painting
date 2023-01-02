@@ -9,7 +9,7 @@ This is a project on freeCodeCAmp Responsive Web Design Track
 
 ### Built with
 
-- Semantic HTML5 Box Model
+- HTML5 Box Model
 - CSS
 
 ## Author
